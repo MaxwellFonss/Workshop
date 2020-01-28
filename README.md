@@ -1,8 +1,27 @@
 # Index of my work
 
+##Responses to Readings
+1. [Blumenstock Question](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+
+## Projects
+1.
+
+## Assignments
+
+1.Annotated Bibliography
+2.Literature Review
+
 Maxwell Fonss
 
 January 23
+
+
+
+
+
+
+
+
 
 ## Informal Responses
 
