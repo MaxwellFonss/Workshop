@@ -2,6 +2,7 @@
 
 ## Responses to Readings
 1. [Blumenstock Question](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+2. [Blumenstock Response]
 
 ## Projects
 1.
