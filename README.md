@@ -1,6 +1,6 @@
 # Index of my work
 
-##Responses to Readings
+## Responses to Readings
 1. [Blumenstock Question](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
 
 ## Projects
@@ -9,6 +9,13 @@
 ## Assignments
 
 1.Annotated Bibliography
+  - Problem Statement
+    -Harms
+    -Signifigance of those harms
+    -Inherent nature of the problem
+    -Selected LMIC or region
+    -Dimension of Human Development
+
 2.Literature Review
 
 Maxwell Fonss
