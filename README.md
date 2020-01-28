@@ -9,7 +9,7 @@
 ## Assignments
 
 1.Annotated Bibliography
-  - Problem Statement
+   - Problem Statement
     -Harms
     -Signifigance of those harms
     -Inherent nature of the problem
