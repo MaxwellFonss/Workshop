@@ -9,7 +9,8 @@
 
 ## Assignments
 
-1.Annotated Bibliography
+1. Annotated Bibliography
+⋅⋅* Unordered sub-list. 
    - Problem Statement
     -Harms
     -Signifigance of those harms
@@ -17,7 +18,7 @@
     -Selected LMIC or region
     -Dimension of Human Development
 
-2.Literature Review
+2. Literature Review
 
 Maxwell Fonss
 
