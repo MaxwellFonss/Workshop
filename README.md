@@ -1,7 +1,7 @@
 # Index of my work
 
 ## Responses to Readings
-1. [Blumenstock Question](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+1. [Blumenstock Article](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
 2. [Blumenstock Response](https://github.com/MaxwellFonss/Workshop/blob/master/blumenstock.md)
 
 ## Projects
