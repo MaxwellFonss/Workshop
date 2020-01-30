@@ -1,8 +1,7 @@
 # Index of my work
 
 ## Responses to Readings
-1. [Blumenstock Question](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf) (Jan. 28)
-2. [Blumenstock Question](https://maxwellfonss.github.io/Workshop/) (Jan. 30, revised)
+1. [Blumenstock Question](https://maxwellfonss.github.io/Workshop/blumenstock) (Jan. 30, revised)
 
 
 
