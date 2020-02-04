@@ -2,6 +2,7 @@
 
 ## Responses to Readings
 1. [Blumenstock Question](https://maxwellfonss.github.io/Workshop/blumenstock) (Jan. 30, revised)
+2. [Selim Jahan and Hans Rosling Questions](https://maxwellfonss.github.io/Workshop/selim_jahan)
 
 
 
