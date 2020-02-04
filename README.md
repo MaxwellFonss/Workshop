@@ -1,8 +1,8 @@
 # Index of my work
 
 ## Responses to Readings
-1. [Blumenstock Question](https://maxwellfonss.github.io/Workshop/blumenstock) (Jan. 30, revised)
-2. [Selim Jahan and Hans Rosling Questions](https://maxwellfonss.github.io/Workshop/selim_jahan)
+1. [Blumenstock Question](https://maxwellfonss.github.io/Workshop/blumenstock) (Jan. 30th, revised)
+2. [Selim Jahan and Hans Rosling Questions](https://maxwellfonss.github.io/Workshop/selim_jahan) (Feb. 4th)
 
 
 
