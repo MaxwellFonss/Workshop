@@ -1,6 +1,6 @@
 ## What was the Harrod Domar Growth Model?
 
-The Harrod Domar growth model was one of the first models in the new field of macroeconomics after World War 2 that attempted to explain why certain countries grew more than others. The model argued that the key to economic development was labor and capital goods, and that the limiting factor in the majority of countries was capital goods. Therefore, the model argued that the best method to improve human development was to direct investment targeted aid to developing countries.
+The Harrod Domar growth model was one of the first models in the new field of macroeconomics after World War 2 that attempted to explain why certain countries grew more than others. The model argued that the key to economic development was labor and capital goods, and that the limiting factor in the majority of countries was capital goods. Therefore, the model argued that the best method to improve human development was to direct investment targeted aid at developing countries.
 
 ## Who was Walter Rostow and what was the impact of his work on development?
 
