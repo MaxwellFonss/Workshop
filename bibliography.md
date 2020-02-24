@@ -2,6 +2,8 @@
 
 Although the standards of living of Chinese citizens within coastal provinces have risen signifigantly over the last few decades, populations within inland rural provinces have remained stagnant in terms of education, wages, and even lifespans. This development has created a concerning amount of inequality between Chinese provinces, which not only bring into question China's position as a world power, but could result in social unrest in the future. There are a plethora of problems facing rural Chinese citizens, including a lack of access to credit, inability to receive proper education, and exposure to environmental harms such as air pollution. The inherent nature of the gap between coastal and urban populations can be attributed to the United Nation's sustainability goal of urban development. I have attempted to investigate the cause of a lack of urbanization within rural China with my research, as well successful measures that have worked on a smaller scale.
 
+## Article Summaries
+
 # Article 1
 
 Citation: Zheng, Siqi. and Khan, Matthew, China’s Bullet Trains Facilitate Market Integration and Mitigate the Cost of Megacity Growth (March 18, 2013). https://www.pnas.org/content/pnas/110/14/E1248.full.pdf
@@ -59,3 +61,7 @@ As population continues to grow across developing countries, strain on our finit
 To predict population distributions, Random Forest takes existing estimated census data in addition to various covariates that are thought to have an influence over human settlement. The algorithm then uses data regression using a complex network of logic trees to produce a more holistic and accurate model than the original. Some of these covariates include nighttime lights, which indicate urbanization, and Distance Built to Edge, or the estimated area covered of settlements. An important precaution made by the researchers was to have a separate analysis for each year of data, as they noted that the relationship between different covariates and actual population changed over time. Due to limitations in available data, the study only focused on four central regions deemed most representative of China. 
 
 In order to analyze the accuracy of the modeled data, researchers measured an “Out of Bag” error estimate for each administrative level, which took one third of the observations made by the algorithm and calculated the mean of all R square errors. This analysis revealed that the accuracy of the random forest model was negatively correlated with population size but was still significantly better quality than previous data. 
+
+## Conclusion
+
+After reading my five articles, it seems that the most effective solutions to urbanize rural China are not targeted at specific issues. Actions such as investing in public transportation or deregulating internal migration were not designed to solve any problems, but clearly made the most difference in bridging the gap in quality of life between rural and urban populations.
