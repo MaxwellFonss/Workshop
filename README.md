@@ -14,13 +14,7 @@
 
 ## Assignments
 
-1. Annotated Bibliography
-⋅⋅* Unordered sub-list. 
-⋅⋅*Problem Statement
-    -Harms
-    -Signifigance of those harms
-    -Inherent nature of the problem
-    -Selected LMIC or region
+1. [Annotated Bibliography](https://maxwellfonss.github.io/Workshop/bibliography) (Feb. 23rd)
     -Dimension of Human Development
 
 2. Literature Review
