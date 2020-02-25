@@ -1,10 +1,12 @@
-# Problem Statement
+# Annotated Bibliography - Investigating Obstacles to Urbanization in Rural China
+
+## Problem Statement
 
 Although the standards of living of Chinese citizens within coastal provinces have risen signifigantly over the last few decades, populations within inland rural provinces have remained stagnant in terms of education, wages, and even lifespans. This development has created a concerning amount of inequality between Chinese provinces, which not only bring into question China's position as a world power, but could result in social unrest in the future. There are a plethora of problems facing rural Chinese citizens, including a lack of access to credit, inability to receive proper education, and exposure to environmental harms such as air pollution. The inherent nature of the gap between coastal and urban populations can be attributed to the United Nation's sustainability goal of urban development. I have attempted to investigate the cause of a lack of urbanization within rural China with my research, as well successful measures that have worked on a smaller scale.
 
-# Article Summaries
+## Article Summaries
 
-## Article 1
+### Article 1
 
 Citation: Zheng, Siqi. and Khan, Matthew, China’s Bullet Trains Facilitate Market Integration and Mitigate the Cost of Megacity Growth (March 18, 2013). https://www.pnas.org/content/pnas/110/14/E1248.full.pdf
 
@@ -16,7 +18,7 @@ Although there are several explanations as to why there is a positive correlatio
 
 Zheng’s and Kahn’s research concluded that there are massive externalities to investment in public transportation and conclude that these facilities are essential to the continuation of human development.
 
-## Article 2
+### Article 2
 
 Citation:
 Démurger, Sylvie and Fournier, Martin and Yang, Weiyong, Diversification and Agrarian Change under Environmental Constraints in Rural China: Evidence from a Poor Township of Beijing Municipality (April 1, 2007). http://dx.doi.org/10.2139/ssrn.988057
@@ -29,7 +31,7 @@ The Chinese government utilized two main methods to reach these goals: regulatio
 
 Although these policies have achieved the desired results in select communities, most villages under effected by regulation and subsidies still utilize traditional staple crops. The researches divided the reasons for these shortcomings into a lack of access to capital and a gap in education. There were many villages within the study where farmers had the knowledge and enthusiasm to start new businesses, but due to a lack of a financial history could not acquire a loan. In other situations, there was adequate funding, but farmers were not properly educated in the long-term benefits of diversification, so they chose to minimize risk and keep their current crop rotation.
 
-## Article 3
+### Article 3
 
 Citation:
 Turvey, Calum G. and Kong, Rong, Farmers’ Willingness to Purchase Weather Insurance in Rural China (May 6, 2010). https://ssrn.com/abstract=1601625  
@@ -40,7 +42,7 @@ The two biggest conclusions of Turvey’s and Kong’s research was that there w
 
 These conclusions were reached by asking farmers the following questions: how much they would personally be willing to pay for insurance, how enthusiastic they would be for various insurance programs, and finally if they would pay an actuarially determined market price for a policy. Then, crosstabulation was used to combine the results of different questions to draw conclusions about if a farmer would realistically participate in a hypothetical market if given the opportunity. After creating their initial model, the researchers added additional covariates to their model such as the weather trends of their home province, their crop rotation, and the value of their capital goods. Using these covariates, Turvey and Kong used regression to develop a linear model of demand vs. insurance policy prices. Additionally, Kong and Turvey employed heteroskedastic correction through computer software to determine how influential each covariate was in determining demand. 
 
-## Article 4
+### Article 4
 
 Aunan, Kristin, Shuxiao, Wang, Internal Migration and Urbanization in China: Impacts on Population Exposure and to Household Air Pollution (2016). https://www.sciencedirect.com/science/article/pii/S0048969714002472
 
@@ -51,7 +53,7 @@ To conduct their study, Aunan and Shuxiao measured the number of citizens in eac
 The result of the study was that not only are urban areas safer compared to non-urban areas, but also that the migrants themselves produced less pollution than their native counterparts after moving. Researchers also calculated that an entire 60 percent of the recent country wide reduction in air pollution can be attributed to migration. The cause of this was attributed to the development of more efficient housing, better education, and a widespread switching of fuel sources. The researchers in their conclusion that urbanization is the main cause of migration, and therefore pollution reduction; therefore, there are significant benefits to be gained by actively encouraging urbanization. 
 
 
-## Article 5
+### Article 5
 
 Citation:
 Gaughan, A., Stevens, F., Huang, Z. et al. Spatiotemporal patterns of population in mainland China, 1990 to 2010. Sci Data 3, 160005 (2016). https://doi.org/10.1038/sdata.2016.5
@@ -62,6 +64,6 @@ To predict population distributions, Random Forest takes existing estimated cens
 
 In order to analyze the accuracy of the modeled data, researchers measured an “Out of Bag” error estimate for each administrative level, which took one third of the observations made by the algorithm and calculated the mean of all R square errors. This analysis revealed that the accuracy of the random forest model was negatively correlated with population size but was still significantly better quality than previous data. 
 
-# Conclusion
+## Conclusion
 
 After reading my five articles, it seems that the most effective solutions to urbanize rural China are not targeted at specific issues. Actions such as investing in public transportation or deregulating internal migration were not designed to solve any problems, but clearly made the most difference in bridging the gap in quality of life between rural and urban populations.
