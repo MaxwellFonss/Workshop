@@ -8,7 +8,7 @@ Although the standards of living of Chinese citizens within coastal provinces ha
 
 ### Article 1
 
-Citation: Zheng, Siqi. and Khan, Matthew, China’s Bullet Trains Facilitate Market Integration and Mitigate the Cost of Megacity Growth (March 18, 2013). https://www.pnas.org/content/pnas/110/14/E1248.full.pdf
+Citation: Zheng, Siqi. and Khan, Matthew, China’s Bullet Trains Facilitate Market Integration and Mitigate the Cost of Megacity Growth (March 18, 2013). <https://www.pnas.org/content/pnas/110/14/E1248.full.pdf>
 
 Although the rapid urbanization of China has resulted in a substantial increase to average standards of living, increased concentrations of people have negatively affected public goods such as air quality, urban transportation, and public areas. While numerous policies have been enacted by local governments to address overpopulation problems, a study by Siqi Zheng and Matthew E. Kahn has revealed that bullet trains have been one of the leading solutions to the negative side effects of urbanization. 
 
