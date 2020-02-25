@@ -21,7 +21,7 @@ Zheng’s and Kahn’s research concluded that there are massive externalities t
 ### Article 2
 
 Citation:
-Démurger, Sylvie and Fournier, Martin and Yang, Weiyong, Diversification and Agrarian Change under Environmental Constraints in Rural China: Evidence from a Poor Township of Beijing Municipality (April 1, 2007). http://dx.doi.org/10.2139/ssrn.988057
+Démurger, Sylvie and Fournier, Martin and Yang, Weiyong, Diversification and Agrarian Change under Environmental Constraints in Rural China: Evidence from a Poor Township of Beijing Municipality (April 1, 2007). <http://dx.doi.org/10.2139/ssrn.988057>
 
 Over the last few decades, the People’s Republic of China went through several drastic policy changes to better integrate with the global community, including measures such as liberalizing trade, enacting environmental protection regulations, and encouraging entrepreneurship within its rural communities. In Diversification and agrarian change, understanding environmental constraints in rural China: Evidence from a poor township of Beijing municipality, researchers attempt to evaluate the current effectiveness of these policies, as well the current obstacles limiting their full implementation. 
  
@@ -34,7 +34,7 @@ Although these policies have achieved the desired results in select communities,
 ### Article 3
 
 Citation:
-Turvey, Calum G. and Kong, Rong, Farmers’ Willingness to Purchase Weather Insurance in Rural China (May 6, 2010). https://ssrn.com/abstract=1601625  
+Turvey, Calum G. and Kong, Rong, Farmers’ Willingness to Purchase Weather Insurance in Rural China (May 6, 2010). <https://ssrn.com/abstract=1601625>  
 
 Through analyzing the willingness to pay of Chinese farmers of crop failure insurance, researchers claim G. Turvey and Rong Kong attempt to determine the necessity and viability of a privatized insurance market tailored to rural areas. This was done by surveying farmers across rural China, then employing traditional statistical methods such as linear regression, crosstabulation, pert distribution models, and heteroskedastic correction to draw conclusions. 
 
@@ -44,7 +44,7 @@ These conclusions were reached by asking farmers the following questions: how mu
 
 ### Article 4
 
-Aunan, Kristin, Shuxiao, Wang, Internal Migration and Urbanization in China: Impacts on Population Exposure and to Household Air Pollution (2016). https://www.sciencedirect.com/science/article/pii/S0048969714002472
+Aunan, Kristin, Shuxiao, Wang, Internal Migration and Urbanization in China: Impacts on Population Exposure and to Household Air Pollution (2016). <https://www.sciencedirect.com/science/article/pii/S0048969714002472>
 
 Although China’s rapid urbanization has transformed the country into a major world power over the course of only a few decades, the damage done to its environment has turned the nation into a posterchild of the harm’s mankind can inflict on the environment. This resulted in tremendous economic damage in the form of health problems for Chinese citizens, and cancers as well as respiratory diseases quickly became a leading cause of death. While the Chinese government has attempted to control the problem by enforcing new environmental regulations and encouraging the use of clean fuel, researchers Kristin Aunan and Shuxiao Wang have discovered that the recent improvements in Chinese air quality may have been an unintended result of migration.
 
@@ -56,7 +56,7 @@ The result of the study was that not only are urban areas safer compared to non-
 ### Article 5
 
 Citation:
-Gaughan, A., Stevens, F., Huang, Z. et al. Spatiotemporal patterns of population in mainland China, 1990 to 2010. Sci Data 3, 160005 (2016). https://doi.org/10.1038/sdata.2016.5
+Gaughan, A., Stevens, F., Huang, Z. et al. Spatiotemporal patterns of population in mainland China, 1990 to 2010. Sci Data 3, 160005 (2016). <https://doi.org/10.1038/sdata.2016.5>
 
 As population continues to grow across developing countries, strain on our finite natural resources will only increase in the future. This is especially important in regions throughout Africa and Asia, where countries in the process of industrialization experience the highest rates of population growth. To properly plan for the next baby boom, scientists are developing a new field of technology that aims to accurately predict where people live, which will be essential to urban planning and effective use of both financial and natural resources. To assess our current progress in predicting populations in areas without adequate data, Researchers Gaughan and Stevens evaluate the effectiveness of Random Forest Models, or population distributions made utilizing both opensource algorithms made possible by Python and opensource data made available on Worldpop. 
 
