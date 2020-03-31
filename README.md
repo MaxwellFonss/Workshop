@@ -6,6 +6,7 @@
 3. [Random Questions](https://maxwellfonss.github.io/Workshop/random_question) (Feb. 18th)
 4. [Anderson Reading](https://maxwellfonss.github.io/Workshop/anderson) (Feb. 25th)
 5. [Stevens Reading](https://maxwellfonss.github.io/Workshop/stevens) (Mar. 26th)
+6. [Nieves Reading](https://maxwellfonss.github.io/Workshop/nieves) (Mar. 31st)
 
 
 
