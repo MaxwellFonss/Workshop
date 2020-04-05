@@ -9,21 +9,12 @@
 6. [Nieves Reading](https://maxwellfonss.github.io/Workshop/nieves) (Mar. 31st)
 
 
-
-
-## Projects
-1.
-
 ## Assignments
 
 1. [Annotated Bibliography](https://maxwellfonss.github.io/Workshop/bibliography) (Feb. 23rd)
     -Dimension of Human Development
 
-2. Literature Review
-
-Maxwell Fonss
-
-January 23
+2. [Literature Review](https://maxwellfonss.github.io/Workshop/litreview) (Apr. 4th)
 
 
 
@@ -33,6 +24,7 @@ January 23
 
 
 
-## Informal Responses
 
-## Formal Papers
+
+
+
