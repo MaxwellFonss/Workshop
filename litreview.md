@@ -36,6 +36,28 @@ Although the ten articles featured in this literature review have looked at the 
 Even while investigating an information rich country such as China, there still was a clear research gap in demographically disaggregated data. All the sources featured in this literature review split the Chinese population into urban and rural groups. While this categorization is relevant to my desired area of study and easy to identify based on location, it fails to address important distinctions such as gender. Most papers analyzing urbanization focus on economic development, which is the main contributor to human development. However, these papers left me curious how health services such as access to birth control were affected. Additionally, these papers did not consider if the transition from rural to urban life improved the gap in employment between men and women. Since my area of study is complex and focused on development, I decided that my research question should be evaluative. My current draft is the following: To what degree have China’s rural population benefitted from the recent growth of cities?
 
 
+### Bibliography
+
+Zheng, Siqi. and Khan, Matthew, China’s Bullet Trains Facilitate Market Integration and Mitigate the Cost of Megacity Growth (March 18, 2013). https://www.pnas.org/content/pnas/110/14/E1248.full.pdf
+
+Démurger, Sylvie and Fournier, Martin and Yang, Weiyong, Diversification and Agrarian Change under Environmental Constraints in Rural China: Evidence from a Poor Township of Beijing Municipality (April 1, 2007). http://dx.doi.org/10.2139/ssrn.988057
+
+Turvey, Calum G. and Kong, Rong, Farmers’ Willingness to Purchase Weather Insurance in Rural China (May 6, 2010). https://ssrn.com/abstract=1601625
+
+Aunan, Kristin, Shuxiao, Wang, Internal Migration and Urbanization in China: Impacts on Population Exposure and to Household Air Pollution (2016). https://www.sciencedirect.com/science/article/pii/S0048969714002472
+
+Gaughan, A., Stevens, F., Huang, Z. et al. Spatiotemporal patterns of population in mainland China, 1990 to 2010. Sci Data 3, 160005 (2016). https://doi.org/10.1038/sdata.2016.5
+
+Chu, Qingqiang. And Sing, Tien, Inflation Hedging Characteristics of the Chinese Real Estate Market (2004). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=538742
+
+Deng, Yu and Qi, Wei, and Fu, Bojie, and Wang, Kevin, Geographical transformations of urban sprawl: Exploring the spatial heterogeneity across cities in China 1999-2015 (2015). https://www.sciencedirect.com/science/article/pii/S0264275119300307
+
+Zhang, Weili and Chong, Zhaohui and Li, Xiaojian and Nie, Guibo, Spatial patterns and determinant factors of population flow networks in China: Analysis on Tencent Location Big Data (2019). https://www.sciencedirect.com/science/article/pii/S0264275119311862
+
+Pan, Jinghu and Lai, Jianbo, Spatial pattern of population mobility across cities in China: Case study of the National Day plus Mid-Autumn Festival based on Tencent migration data. (2019). https://www.sciencedirect.com/science/article/pii/S0264275118311703?via%3Dihub
+
+Flowminder, Mapping Indicators of Women’s Welfare at High Spatial Resolution. https://web.flowminder.org/case-studies/mapping-indicators-of-womens-welfare-at-high-spatial-resolution
+
 
 
 
