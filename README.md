@@ -16,6 +16,8 @@
 
 2. [Literature Review](https://maxwellfonss.github.io/Workshop/litreview) (Apr. 4th)
 
+3. [Investigate a Methodology](https://maxwellfonss.github.io/Workshop/assignment3) (Apr. 19th)
+
 
 
 
