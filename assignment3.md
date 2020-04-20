@@ -9,7 +9,7 @@ As stated before, the two aspects this assignment will use to assess urbanizatio
 
 In the study involving real estate prices, cointegration was used to determine the relationship between real inflation and returns on real estate. Since real returns must account for losses due to inflation, researchers needed to model the relationship between inflation and returns. Cointegration is a method used to determine the relationship between two variables and does not need information regarding causality in order to be used. The equation used by the study is the following:
 
-![](images/formula1.png)
+![](images/formula1.PNG)
  
 Y is the predicted returns, alpha and beta are constants created by the regression model, and x is a vector of the independent variables used to model returns. The study integrated a variety of independent variables for each region, an example of the variables for a few regions can be found here:
 
