@@ -25,7 +25,7 @@ In the study involving population flow, logarithmic rank size models were used t
  
 B describes the relative size of any given area, while R is the ranking of that area relative to others. The variables i and 1 distinguish if the area is being measured relative to the city it is in, or a baseline major city that is used for all comparisons. The variable q models the current economic development of a given city. The rank size models were then used to generate a spatial distribution of China’s urban areas: 
 
-![](images/map.jpeg)
+![](images/map.jpg)
 
 The conclusions of both studies indicated that there was a significant and universal growth of urban areas throughout China, although there were some observations that indicate the unique nature of China’s urbanization process. The real estate prices study concluded that investors in real estate suffered steep loses, which does indicate that the growth in real estate prices, or development of land was larger than the growth in inflation. However, the study also found that the real rate of inflation for China in a large section of the timeseries data was negative, which is usually an indicator of a severe recession. Due to this discrepancy between the study’s findings and typical economic theory, I have concluded that the regulations of China’s socialist economy make attempts to evaluate urbanization through macroeconomic statistics impractical. 
 
