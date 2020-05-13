@@ -18,6 +18,8 @@
 
 3. [Investigate a Methodology](https://maxwellfonss.github.io/Workshop/assignment3) (Apr. 19th)
 
+4. [Research Proposal](https://maxwellfonss.github.io/Workshop/Data150Final.pdf) (May 12th)
+
 
 
 
